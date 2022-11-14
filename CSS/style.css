@@ -211,7 +211,7 @@ header i:hover{
 }
 
 .landing{
-  background-image: url(/image/landing.jpg);
+  background-image: url(../image/landing.jpg);
   background-size: cover;
   min-height: 100vh;
   position: relative;
@@ -353,7 +353,7 @@ header i:hover{
 }
 
 .design{
-  background-image: url(/image/design.jpg);
+  background-image: url(../image/design.jpg);
   background-size: cover;
   min-height: 400px;
   position: relative;
@@ -567,7 +567,7 @@ header i:hover{
 }
 
 .state{
-  background-image: url(/image/state.jpg);
+  background-image: url(../image/state.jpg);
   background-size: cover;
   color: white;
   position: relative;
@@ -926,7 +926,7 @@ header i:hover{
 }
 
 .quote{
-  background-image: url(/image/quote.jpg);
+  background-image: url(../image/quote.jpg);
   text-align: center;
   color: white;
   position: relative;
@@ -955,7 +955,7 @@ header i:hover{
 }
 
 .subscribe{
-  background-image: url(/image/subscribe.jpg);
+  background-image: url(../image/subscribe.jpg);
   background-size: cover;
   position: relative;
   color: white;
@@ -1083,7 +1083,7 @@ header i:hover{
 }
 
 footer{
-  background-image: url(/image/subscribe.jpg);
+  background-image: url(../image/subscribe.jpg);
   background-size: cover;
   color: white;
   position: relative;
